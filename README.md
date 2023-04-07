@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Orcadia
 - 🎓 I study informatic in a French school named 3iL
 - 👀 I’m interested in robotic, on-board technologies and AI 
-- 🌱 I’m currently learning Web (Html,Css,Js,PhP,...)
+- 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on projects with my friends.
 - 📫 How to reach me ...
 
