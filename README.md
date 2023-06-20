@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Orcadia
 - 🎓 I'm a computer engineering student
 - 👀 I’m interested in robotic, on-board technologies and AI 
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on projects with my friends.
 - 📫 How to reach me ...
 
