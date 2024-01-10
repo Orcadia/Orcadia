@@ -52,8 +52,6 @@
 
 <br clear="both">
 
-![snake gif](https://github.com/Orcadia/Orcadia/blob/output/github-contribution-grid-snake.gif)
-
-
+<img src="https://raw.githubusercontent.com/Orcadia/Orcadia/output/snake.svg" alt="Snake animation" />
 
 ###
