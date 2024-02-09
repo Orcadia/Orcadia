@@ -13,6 +13,8 @@
 
 ###
 
+<h3 align="left">What i have learn:</h3>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
@@ -40,6 +42,12 @@
 </div>
 
 ###
+<h3 align="left">What i have knowledge about:</h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="matlab logo"  />
+  <img width="12" />
+</div>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/victor-joly-574974223" target="_blank">
